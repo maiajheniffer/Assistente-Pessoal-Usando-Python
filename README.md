@@ -35,4 +35,7 @@ pip install -r .\requirements.txt
 ## Aprendizados
 
 O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
+### Instagram 
+
+- [@eeumaia](http://www.instagram.com/eeumaia)
 
